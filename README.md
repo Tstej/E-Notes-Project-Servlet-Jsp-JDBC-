@@ -2,7 +2,7 @@ Project Requirements:
 - IDE : Eclipse 
 - Frontend : HTML, CSS, Bootstrap 4, Frontawsome
 - Backend: JSP, Servlet, JDBC 
-= Database: Mysql Workbench
+- Database: Mysql Workbench
 
   Modules:
     1. User Registration
